@@ -4,10 +4,10 @@
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Entries](https://img.shields.io/badge/entries-20-orange.svg)]()
 
-> Tools to make a great GitHub profile. Curated, simple, and free to use — one line per entry.
+> Tools to make a great GitHub profile. Curated, simple, and free to use - one line per entry.
 
 ## Why This List
-Developers love showing off their profile — and every tool they add links back to lists like this. It's self-spreading: your readers become your promoters. Very low upkeep.
+Developers love showing off their profile - and every tool they add links back to lists like this. It's self-spreading: your readers become your promoters. Very low upkeep.
 
 ## Contents
 - [Stats and Cards](#stats-and-cards)
@@ -57,4 +57,4 @@ Developers love showing off their profile — and every tool they add links back
 See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: the tool must work on a GitHub profile README and be free to use. One entry per tool.
 
 ## License
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. Use freely, no attribution required.
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)- public domain. Use freely, no attribution required.
